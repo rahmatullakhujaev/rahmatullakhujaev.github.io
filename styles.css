@@ -1,0 +1,21 @@
+body{
+    margin-left: 100px;
+    font-family:'Open Sans', sans-serif;
+    color: white;
+    background-color: #777;
+    font-size: larger;
+}
+h1{
+    color: cornflowerblue;
+    background-color: orange;
+}
+h4{
+    color: cornflowerblue;
+}
+li , a{
+    color: orange;
+
+}
+img{
+    margin: 20px;
+}
